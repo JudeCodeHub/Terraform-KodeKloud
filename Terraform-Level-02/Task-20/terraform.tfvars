@@ -1,0 +1,1 @@
+KKE_DYNAMODB_TABLE_NAME = "nautilus-cf-dynamodb-table"
